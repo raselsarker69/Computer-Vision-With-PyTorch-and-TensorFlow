@@ -137,5 +137,14 @@ Email: [rasel.sarker6933@gmail.com](mailto:rasel.sarker6933@gmail.com)
 
 ---
 
+<div align="center">
+
+Thank you for visiting my repository. I hope these projects inspire and guide your learning journey!
+
+---
+
 Feel free to explore, learn, and build upon these projects. Happy coding!<br>
-&copy; 2025 Image Classification Projects
+
+&copy; 2025 Machine Learning Projects
+
+</div>
